@@ -1,5 +1,8 @@
 # Sales-Insights-Data-Analysis-with-Tableau
 
+Sales analytics refers to the technology and processes used to gather sales data and gauge sales performance. Sales leaders use these metrics to set goals, improve internal processes, and forecast future sales and revenue more accurately.25.07.2022
+
+
 Data Analysis Using SQL
 ```SQL
 Show all customer records
